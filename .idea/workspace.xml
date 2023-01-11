@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e06f351-5d97-44a0-8956-1d76f337db4e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/models/.github/scripts/pylint.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/.github/scripts/pylint.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/projects/triviaqa/sentencepiece_pb2.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/projects/triviaqa/sentencepiece_pb2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/recommendation/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/recommendation/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/utils/testing/scripts/ci_sanity.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/utils/testing/scripts/ci_sanity.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/utils/testing/scripts/presubmit.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/utils/testing/scripts/presubmit.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/configs/decoders.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/configs/decoders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/configs/experiments/yolov4/detection/yolov4_512_tpu.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/configs/experiments/yolov4/detection/yolov4_512_tpu.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/configs/yolo.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/configs/yolo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/dataloaders/classification_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/dataloaders/classification_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/dataloaders/yolo_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/dataloaders/yolo_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/losses/yolo_loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/losses/yolo_loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/losses/yolo_loss_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/losses/yolo_loss_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/ops/loss_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/ops/loss_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/ops/mosaic.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/ops/mosaic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/ops/preprocessing_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/ops/preprocessing_ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/ops/preprocessing_ops_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/ops/preprocessing_ops_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/optimization/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/optimization/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/optimization/configs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/optimization/configs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/optimization/configs/optimization_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/optimization/configs/optimization_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/optimization/configs/optimizer_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/optimization/configs/optimizer_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/optimization/optimizer_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/optimization/optimizer_factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/tasks/yolo.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/official/vision/beta/projects/yolo/tasks/yolo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/cognitive_planning/train_supervised_active_vision.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/cognitive_planning/train_supervised_active_vision.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/cvt_text/fetch_data.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/cvt_text/fetch_data.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/deep_speech/run_deep_speech.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/deep_speech/run_deep_speech.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/delf/delf/python/training/download_dataset.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/delf/delf/python/training/download_dataset.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/delf/delf/python/training/install_delf.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/delf/delf/python/training/install_delf.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/efficient-hrl/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/efficient-hrl/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/efficient-hrl/environments/assets/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/efficient-hrl/environments/assets/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/lfads/run_lfads.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/lfads/run_lfads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/lfads/synth_data/run_generate_synth_data.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/lfads/synth_data/run_generate_synth_data.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/object_detection/dataset_tools/download_and_preprocess_ava.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/object_detection/dataset_tools/download_and_preprocess_ava.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/pcl_rl/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/pcl_rl/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/pcl_rl/baseline.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/pcl_rl/baseline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/pcl_rl/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/pcl_rl/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/pcl_rl/env_spec.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/pcl_rl/env_spec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/pcl_rl/expert_paths.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/pcl_rl/expert_paths.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/pcl_rl/full_episode_objective.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/pcl_rl/full_episode_objective.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/pcl_rl/gym_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/pcl_rl/gym_wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/pcl_rl/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/pcl_rl/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/pcl_rl/objective.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/pcl_rl/objective.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/pcl_rl/optimizers.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/pcl_rl/optimizers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/pcl_rl/policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/pcl_rl/policy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/pcl_rl/replay_buffer.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/pcl_rl/replay_buffer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/pcl_rl/trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/pcl_rl/trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/pcl_rl/trust_region.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/pcl_rl/trust_region.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/seq_flow_lite/demo/colab/move_ops.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/seq_flow_lite/demo/colab/move_ops.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/seq_flow_lite/demo/colab/setup_workspace.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/seq_flow_lite/demo/colab/setup_workspace.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/slim/datasets/download_and_convert_imagenet.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/slim/datasets/download_and_convert_imagenet.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/slim/datasets/download_imagenet.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/slim/datasets/download_imagenet.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/slim/datasets/preprocess_imagenet_validation_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/slim/datasets/preprocess_imagenet_validation_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/slim/datasets/process_bounding_boxes.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/slim/datasets/process_bounding_boxes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/slim/nets/mobilenet_v1_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/slim/nets/mobilenet_v1_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/research/slim/scripts/export_mobilenet.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/research/slim/scripts/export_mobilenet.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/models" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C73SuBiU1lSEc0330kvXqZVGeD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/radiator",
+    "settings.editor.selected.configurable": "configurable.group.tools"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e06f351-5d97-44a0-8956-1d76f337db4e" name="Changes" comment="" />
+      <created>1658139798483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658139798483</updated>
+    </task>
+    <servers />
+  </component>
+</project>
